@@ -1,2 +1,1 @@
-# Heart-disease-
-Python, jupyter Notebook 
+# Heart-Disease
